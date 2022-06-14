@@ -44,146 +44,117 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Carperntaaary Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software engineer with more than 20 years of experience.
+      In the last 10 years focused on BigData and AI domains and speciallized in batch processing and advanced analytics using Spark.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Physics
+      university: Tel Aviv University
+      time: 2011 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Magna Cum Laude (91).
+    - degree: BSc in Mathematics and Physics
+      university: Tel Aviv University
+      time: 2008 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Magna Cum Laude (94).
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Group Tech Lead
+      time: 2020 - Present
+      company: PayPal, Tel Aviv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Leading the technolgy and analytics aspects for a group 
+        of four teams which develops advanced BigData analytics solutions for PayPal's global
+        data sceince group. Deep knowledge with the Hadoop ecosystem - especially Spark and Hive.
+          - Open sourced [**Dione**](https://medium.com/paypal-tech/paypal-introduces-dione-an-open-source-spark-indexing-library-783e12800585) - an indexing system for Spark.
+    - role: BigData Developer
+      time: 2015 - 2020
+      company: PayPal, Tel Aviv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        BigData developer in PayPal's Global Data Science team with experience in all the solution
+        life cycle - from research to deployment and production maintenance.
+          - research - Talk on [*distributed graph algorithms for community detection*](https://www.youtube.com/watch?v=lg9Ddqo6X9E) at the Jerusalem data science summit 2017.
+          - development - Spark optimizations - [SPARK-16469](https://issues.apache.org/jira/browse/SPARK-16469), [SPARK-19368](https://issues.apache.org/jira/browse/SPARK-19368), [SPARK-21657](https://issues.apache.org/jira/browse/SPARK-21657)
+    - role: BigData Developer
+      time: 2013 - 2015
+      company: Pursway, Herzliya
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Designed and developed the company's data and analytics pipeline from web scraping, ETL, analytics and feature engineering, and machine learning models execution. Framework used Hive, Hadoop, Python and Java.
+    - role: Product Manager and Software Engineer
+      time: 2008 - 2013
+      company: Archisoft, Tel Aviv
+      details: |
+        Archisoft is an IDF outsourcing company. Worked there during my studies as a product manager and software engineer in a large scale operational project for the Israeli Air Force.
+    - role: Software Engineer
+      time: 2005 - 2007
+      company: Israeli Air Force
+      details: |
+        Worked on IAF's leading operational software project.
           
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Nonperturbative beta function in three-dimensional electrodynamics
+        link: "https://arxiv.org/pdf/1405.6916"
+        authors: O Raviv, Y Shamir, B Svetitsky
+        conference: Physical Review D, 2014 - APS
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Hidden temporal order unveiled in stock market volatility variance"
+        link: "https://aip.scitation.org/doi/full/10.1063/1.3598412?showFTTab=true"
+        authors: Y Shapira, DY Kenett, O Raviv, E Ben-Jacob
+        conference: "AIP Advances, 2011"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# skills:
+#     title: Skills &amp; Proficiency
 
-skills:
-    title: Skills &amp; Proficiency
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
