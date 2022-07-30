@@ -74,8 +74,8 @@ experiences:
       details: |
         BigData developer in PayPal's Global Data Science team with experience in all the solution
         life cycle - from research to deployment and production maintenance.
-          - research - Talk on [*distributed graph algorithms for community detection*](https://www.youtube.com/watch?v=lg9Ddqo6X9E) at the Jerusalem data science summit 2017.
-          - development - Spark optimizations - [SPARK-16469](https://issues.apache.org/jira/browse/SPARK-16469), [SPARK-19368](https://issues.apache.org/jira/browse/SPARK-19368), [SPARK-21657](https://issues.apache.org/jira/browse/SPARK-21657)
+          - Research - Talk on [*distributed graph algorithms for community detection*](https://www.youtube.com/watch?v=lg9Ddqo6X9E) at the Jerusalem data science summit 2017.
+          - Dev - Spark PRs - [SPARK-16469](https://issues.apache.org/jira/browse/SPARK-16469), [SPARK-19368](https://issues.apache.org/jira/browse/SPARK-19368), [SPARK-21657](https://issues.apache.org/jira/browse/SPARK-21657), [SPARK-34416](https://issues.apache.org/jira/browse/SPARK-34416)
     - role: BigData Developer
       time: 2013 - 2015
       company: Pursway, Herzliya
