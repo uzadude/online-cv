@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Ohad Raviv
-    tagline: BigData Developer
+    tagline: BigData Advanced Analytics expert
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -60,14 +60,20 @@ education:
         Magna Cum Laude (94).
 
 experiences:
+    - role: BigData Advanced Analytics Consultant
+      time: 2022 - Present
+      company: freelance
+      details: |
+        Hands-on consulting on BigData advanced analytics. Covering all the aspects from research to production. The main tech expertise is Spark-based applications.
     - role: Group Tech Lead
-      time: 2020 - Present
+      time: 2020 - 2022
       company: PayPal, Tel Aviv
       details: |
-        Leading the technolgy and analytics aspects for a group 
-        of four teams which develops advanced BigData analytics solutions for PayPal's global
-        data sceince group. Deep knowledge with the Hadoop ecosystem - especially Spark and Hive.
-          - Open sourced [**Dione**](https://medium.com/paypal-tech/paypal-introduces-dione-an-open-source-spark-indexing-library-783e12800585) - an indexing system for Spark.
+        Leading the technology and analytics aspects for a group of four teams that develops advanced BigData analytics solutions
+         for PayPal’s global data science group. Deep knowledge of the Hadoop ecosystem - especially Spark and Hive, 
+         distributed graph algorithms (entity resolution, community detection, etc.), 
+         and the ML life cycle from research to production.
+          - Open-sourced [**Dione**](https://medium.com/paypal-tech/paypal-introduces-dione-an-open-source-spark-indexing-library-783e12800585) - an indexing framework for Spark.
     - role: BigData Developer
       time: 2015 - 2020
       company: PayPal, Tel Aviv
@@ -76,16 +82,16 @@ experiences:
         life cycle - from research to deployment and production maintenance.
           - Research - Talk on [*distributed graph algorithms for community detection*](https://www.youtube.com/watch?v=lg9Ddqo6X9E) at the Jerusalem data science summit 2017.
           - Dev - Spark PRs - [SPARK-16469](https://issues.apache.org/jira/browse/SPARK-16469), [SPARK-19368](https://issues.apache.org/jira/browse/SPARK-19368), [SPARK-21657](https://issues.apache.org/jira/browse/SPARK-21657), [SPARK-34416](https://issues.apache.org/jira/browse/SPARK-34416)
-    - role: BigData Developer
+    - role: BigData and ML developer
       time: 2013 - 2015
       company: Pursway, Herzliya
       details: |
-        Designed and developed the company's data and analytics pipeline from web scraping, ETL, analytics and feature engineering, and machine learning models execution. Framework used Hive, Hadoop, Python and Java.
+        Designed and developed the company's data and analytics pipeline from web scraping, ETL, analytics and feature engineering, and machine learning model execution. Built using Hive, Hadoop, Python, and Java.
     - role: Product Manager and Software Engineer
       time: 2008 - 2013
       company: Archisoft, Tel Aviv
       details: |
-        Archisoft is an IDF outsourcing company. Worked there during my studies as a product manager and software engineer in a large scale operational project for the Israeli Air Force.
+        Archisoft is an IDF consulting company (Acquired by One1). Worked there during my studies as a product manager and software engineer in a large-scale operational project for the Israeli Air Force.
     - role: Software Engineer
       time: 2005 - 2007
       company: Israeli Air Force
